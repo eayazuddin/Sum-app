@@ -1,16 +1,6 @@
 # sum_app
 
 A new Flutter project.
+App screenshot
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="186" alt="sum" src="https://github.com/eayazuddin/Sum-app/assets/91460445/84ac35c3-4900-4077-9f45-2cb0a9a4e4ae">
